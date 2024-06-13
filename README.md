@@ -1,0 +1,1 @@
+This is a simple Java Swing application that converts currency values between Indian Rupees (INR) and US Dollars (USD). The application provides a graphical user interface (GUI) where users can input amounts in either currency and convert to the other
